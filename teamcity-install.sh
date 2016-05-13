@@ -5,10 +5,10 @@
 #author	         :Tomas Pecserke
 #date            :2016-05-03T14:43+0100
 #usage           :/bin/bash teamcity-install.sh
-#tested-version  :9.1.6
+#tested-version  :9.1.7
 #tested-distros  :Ubuntu 16.04
 
-TEAMCITY_VERSION=9.1.6
+TEAMCITY_VERSION=9.1.7
 TEAMCITY_FILENAME=TeamCity-$TEAMCITY_VERSION
 TEAMCITY_ARCHIVE_NAME=$TEAMCITY_FILENAME.tar.gz
 TEAMCITY_DOWNLOAD_ADDRESS=https://download.jetbrains.com/teamcity/$TEAMCITY_ARCHIVE_NAME
